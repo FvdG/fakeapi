@@ -1,7 +1,7 @@
 {
     "serviceobjects" : [
         {
-            "objectId" : "O-GBW-001050",
+            "id" : "O-GBW-001050",
             "endUser" : "W. van dekker (25528)",
             "owner" : "Provides (1)",
             "objectData" : {
