@@ -1,0 +1,87 @@
+{
+    "serviceobjects" : [
+        {
+            "objectId" : "O-GBW-001050",
+            "endUser" : "W. van dekker (25528)",
+            "owner" : "Provides (1)",
+            "objectData" : {
+                "buildingType" : "Hoogbouw",
+                "buildingCategory" : "Huurwoningen",
+                "lotType" : "Coridorflat",
+                "constructionYear" : 1974
+            },
+            "contacts" : [
+                {
+                    "role" : "Wijkbeheerder",
+                    "name" : "P. van Putten",
+                    "phone" : "",
+                    "email" : "",
+                    "address" : "Postbus 1 3380 AA Putten"
+                },
+                {
+                    "role" : "Wijkbeheerder",
+                    "name" : "P. westland",
+                    "phone" : "(030) 686 05 57, mob: (06) 26 08 84 41",
+                    "email" : "P.Westland@test.nl",
+                    "address" : "Postbus 1 3380 AA Putten"
+                }
+            ],
+            "contractData" : {
+                "data" : {
+                    "rentalContract" : 4166,
+                    "contractDescription" : "Regulier-10140691",
+                    "name" :"W. van Dekker",
+                    "startDate" : "21-10-1991",
+                    "endDate" : "",
+                    "type" : "Sociale verhuur"
+                },
+                "currentCustomer" : {
+                    "name" :"W. van Dekker",
+                    "email" : "",
+                    "phone" : "0306881198",
+                    "mobilePhone" : "",
+                    "bgg" : ""
+                }
+            },
+            "serviceComponentsBycontract" : [
+                {
+                    "component" : "009",
+                    "name" : "Contributie H.V.IJ.",
+                    "category" : "Geen",
+                    "validFrom" : "1-1-2011",
+                    "expiryDate" : ""
+                },
+                {
+                    "component" : "110",
+                    "name" : "Huihoudelijk gasverbruik",
+                    "category" : "ServiceKosten",
+                    "validFrom" : "1-1-1997",
+                    "expiryDate" : ""
+                },
+                {
+                    "component" : "108",
+                    "name" : "Schoonmaakkosten",
+                    "category" : "ServiceKosten",
+                    "validFrom" : "1-7-2008",
+                    "expiryDate" : ""
+                },
+                {
+                    "component" : "107",
+                    "name" : "Dienstruimten",
+                    "category" : "ServiceKosten",
+                    "validFrom" : "1-7-2010",
+                    "expiryDate" : ""
+                },
+                {
+                    "component" : "107",
+                    "name" : "Glasbewassing",
+                    "category" : "ServiceKosten",
+                    "validFrom" : "1-1-2012",
+                    "expiryDate" : ""
+                }
+            ]
+            
+        }
+
+    ]
+}
